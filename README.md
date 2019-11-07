@@ -1,5 +1,5 @@
-# JavaScript Detect Browser | Detect Browser using JavaScript
-JavaScript Detect Browser | Detect Browser using JavaScript
+# Detect Browser using JavaScript
+JavaScript Detect Browser
 
 Article: https://speedysense.com/javascript-detect-browser
 
